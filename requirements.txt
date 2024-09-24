@@ -1,0 +1,2 @@
+openfeature-sdk>=0.7.1
+kameleoon-client-python>=3.3.3
